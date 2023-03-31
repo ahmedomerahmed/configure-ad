@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://i.imgur.com/WQLWxYw.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
 <h1>How to create virtual machice through Azure </h1>
@@ -20,6 +20,7 @@ This tutorial outlines the step by step to create Virtual Machines.<br />
 
 <h2>Configuration Steps</h2>
 Step 1 : Go to https://portal.azure.com/
+
 
 Step 2 : Set up $200 free credit account
 
@@ -60,6 +61,7 @@ Step 7: Set up a Remote desktop
 </p>
 <p>
 If you are using a Mac, go to the app store and download the Microsoft Remote Desktop app. Once downloaded, open the app and click on the "Add PC" button. Paste the public IP address of your VM into the "PC Name" field. Enter the username and password that you previously created for your VM. Click continue to complete the setup. If you are using a Windows, click on the Start menu and search for "Remote Desktop". Once you see the Remote Desktop app, open it and paste or type in the public IP address of your VM. Enter the username and password that you previously created for your VM. Click on "Connect" to proceed with the remote desktop connection.
+
 Step 8: Delete the resourse Group after you complete virtual machice.
 <p>
 <img src="https://i.imgur.com/cFu8kPG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
